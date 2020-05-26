@@ -1,0 +1,7 @@
+﻿  Booking.cpp
+C:\Users\joo\Desktop\cafee system\cafe\Booking.cpp(36): warning C4018: '<': signed/unsigned mismatch
+  Charges.cpp
+  Computer.cpp
+  main.cpp
+  Generating Code...
+  cafe.vcxproj -> C:\Users\joo\Desktop\cafee system\cafe\Debug\cafe.exe
